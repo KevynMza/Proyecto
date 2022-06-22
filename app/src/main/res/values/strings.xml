@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Proyecto</string>
+    <string name="txtnombre">Nombre</string>
+    <string name="txtemail">E-mail</string>
+    <string name="txtcontrasena">Contraseña</string>
+    <string name="txtfecha">Fecha de Nacimiento</string>
+    <string name="btningresa">Ingresar</string>
+    <string name="btniniciar">Iniciar Sesion</string>
+    <string name="btnregistrar">Registro</string>
+    <string name="cbmasculino">Masculino</string>
+    <string name="cbfemenino">Femenino</string>
+    <string name="txtusuario">Usuario</string>
+    <string name="txtnivel">Nivel</string>
+    <string name="txtcategoria">Selecciona la categoria</string>
+</resources>
